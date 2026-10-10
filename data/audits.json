@@ -1,0 +1,24 @@
+[
+  {
+    "id": "EMBER-CA-95969-TEST",
+    "createdAt": "2026-10-08T19:00:00Z",
+    "updatedAt": "2026-10-08T19:00:00Z",
+    "hazardProfile": {
+      "location": {
+        "address": "5500 Clark Rd, Paradise, CA",
+        "street": "5500 Clark Rd",
+        "city": "Paradise",
+        "county": "Butte County",
+        "state": "CA",
+        "zipCode": "95969",
+        "lat": 39.7596,
+        "lon": -121.6219,
+        "geocodedVia": "curated_ca_index"
+      }
+    },
+    "hardeningScore": {
+      "overallScore": 78,
+      "ratingTier": "Well Fortified"
+    }
+  }
+]

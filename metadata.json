@@ -1,0 +1,8 @@
+{
+  "name": "Ember Ready ",
+  "description": "Wildfire household resilience audit and home hardening tool for California residents, integrating CAL FIRE FHSZ, FEMA NRI, NWS Red Flag alerts, NASA FIRMS, and AirNow data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
